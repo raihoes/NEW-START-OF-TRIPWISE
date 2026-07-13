@@ -6,3 +6,41 @@ body{
     width:100%;
     height:auto;
 }
+
+/* =========================
+   General
+========================= */
+
+.card{
+    margin-bottom:20px;
+}
+
+footer{
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
+
+/* =========================
+   Calculator
+========================= */
+
+table input[type="button"]{
+    width:100%;
+}
+
+/* =========================
+   Packing List
+========================= */
+
+.checklist{
+    border:1px solid #ccc;
+    padding:20px;
+    border-radius:10px;
+    background-color:#f8f9fa;
+    margin-bottom:20px;
+}
+
+.form-check{
+    margin-bottom:10px;
+}
